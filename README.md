@@ -1,11 +1,11 @@
 # 💰 Petty Cash and JV Manager
 https://inescapable-cash-flow-snap.base44.app
-A web application for managing petty cash transactions and Journal Vouchers (JVs),
+A web application for managing BotiCARD branch petty cash transactions and Journal Vouchers (JVs),
 built with [Base44](https://base44.com).
 
 ## 📖 Overview
 
-The Petty Cash and JV Manager helps finance teams and small businesses track
+The Petty Cash and JV Manager helps finance teams and BotiCARD branches track
 day-to-day petty cash spending and create, review, and approve journal vouchers —
 replacing spreadsheets and paper vouchers with one organized system.
 
